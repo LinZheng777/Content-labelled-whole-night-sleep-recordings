@@ -1,0 +1,7 @@
+variables,score_1,score_2,score_3,score_4,score_5,descr_1,descr_2,descr_3,descr_4,descr_5
+sleep_quality,0.020689655,0.144827586,0.227586207,0.44137931,0.165517241,Too bad,Bad,Moderately,Good ,Very good
+feeling spiritual,0.020833333,0.090277778,0.298611111,0.458333333,0.131944444,Not at all ,Slightly ,Moderately,Very ,Extremely 
+sleep soundly,0.048275862,0.15862069,0.220689655,0.386206897,0.186206897,Too bad,Bad,Moderately,Good ,Very good
+sleep for the time intend to sleep,0.027586207,0.144827586,0.172413793,0.344827586,0.310344828,Very little,Less,Moderately ,Mostly,All
+easy to getup ,0.110344828,0.255172414,0.324137931,0.268965517,0.04137931,Very hard,Hard,Moderately,Easy,Very easy
+hard to sleep,0.165517241,0.303448276,0.193103448,0.282758621,0.055172414,Very easy,Easy,Moderately ,Hard,Very hard
